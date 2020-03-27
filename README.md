@@ -1,11 +1,12 @@
-# 
-julia_example_package.jl
+# Julia_example_package.jl
 
 [![Build Status](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl.svg?branch=master)](https://travis-ci.org/ChrisRackauckas/ExamplePackage.jl)
 [![Build status](https://ci.appveyor.com/api/projects/status/9iuvdt0j0mw6au0k?svg=true)](https://ci.appveyor.com/project/ChrisRackauckas/examplepackage-jl)
 [![Coverage Status](https://coveralls.io/repos/github/ChrisRackauckas/ExamplePackage.jl/badge.svg?branch=master)](https://coveralls.io/github/ChrisRackauckas/ExamplePackage.jl?branch=master)
 
-This is an example Julia repository testing Julia package + Compose_demo.jl . It was generated using:
+**This is an example Julia repository testing Julia package + Compose_demo.jl.**
+
+It was generated using:
 
 ```julia
 # Pkg.add("PkgDev")
